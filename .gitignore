@@ -1,0 +1,6 @@
+venv/
+pdfs/
+__pycache__/
+debug_output/
+temp_uploads/
+.env
