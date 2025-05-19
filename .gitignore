@@ -3,4 +3,7 @@ pdfs/
 __pycache__/
 debug_output/
 temp_uploads/
+batch_results/
+.qodo
+*.csv
 .env
